@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+
+# Cargo.lock for libraries (keep it for binaries)
+# Cargo.lock
+
+# Debug files
+*.pdb
+
+# Environment variables
+.env
