@@ -2,6 +2,12 @@
 
 A Rust-based listener for Farcaster's Snapchain gossip network that streams casts and reactions via WebSocket.
 
+
+
+https://github.com/user-attachments/assets/e3be79d6-15b1-4df6-a85b-f9479e9f0e84
+
+
+
 ## Features
 
 - Connects to Farcaster Snapchain mainnet bootstrap peers
